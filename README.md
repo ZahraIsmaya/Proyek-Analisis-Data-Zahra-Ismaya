@@ -16,7 +16,7 @@ submission/
 python -m venv venv
 
 **Windows:**
-.\venv\Scripts\Activate.ps1
+venv\Scripts\Activate.ps1
 
 **Mac/Linux:**
 source venv/bin/activate
